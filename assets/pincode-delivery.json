@@ -1,0 +1,5 @@
+{
+  "about": "Sample data for the delivery-estimate section. Replace with your courier's lists. 'fast' and 'standard' are 6-digit pincodes; anything valid that is in neither list gets the 'other' message.",
+  "fast": [110001, 110016, 110017, 110024, 110048, 122001, 122002, 122018, 201301, 201304],
+  "standard": [400001, 400050, 411001, 560001, 560034, 600001, 700001, 380001, 302001, 226001]
+}

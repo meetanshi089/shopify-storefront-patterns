@@ -1,0 +1,11 @@
+{
+  "name": "shopify-storefront-patterns",
+  "version": "1.0.0",
+  "description": "Drop-in Online Store 2.0 patterns: a resilient cart API wrapper, a pincode delivery estimate and an in-card variant picker.",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
